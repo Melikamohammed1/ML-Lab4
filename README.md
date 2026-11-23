@@ -1,9 +1,9 @@
-﻿# ML Lab 3 - Ticket Escalation Classification
+﻿# ML Lab 4 - Ticket Escalation Classification
 
 Binary classification of synthetic support tickets to predict whether a ticket gets escalated (`escalated` = 1).
 
 ## Files
-- `Lab_3.ipynb` - notebook with code, outputs, answers and recommendation
+- `Lab_4.ipynb` - notebook with code, outputs, answers and recommendation
 - `classification_escalation.csv` - dataset (900 tickets)
 
 ## What the notebook covers
@@ -18,4 +18,4 @@ Logistic regression with a 0.20 threshold had the lowest error cost (98, vs 188 
 
 ## How to run
     pip install numpy pandas matplotlib scikit-learn
-Open `Lab_3.ipynb` in VS Code or Jupyter and click Run All. Keep the CSV in the same folder as the notebook.
+Open `Lab_4.ipynb` in VS Code or Jupyter and click Run All. Keep the CSV in the same folder as the notebook.
